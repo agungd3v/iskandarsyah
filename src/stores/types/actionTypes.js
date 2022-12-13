@@ -1,0 +1,1 @@
+export const addMakanan = 'add_makanan'
